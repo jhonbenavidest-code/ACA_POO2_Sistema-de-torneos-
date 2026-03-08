@@ -1,0 +1,8 @@
+sistematorneos\util\ArchivoUtil.class
+sistematorneos\main\Sistema_Torneos.class
+sistematorneos\modelo\Partido.class
+sistematorneos\modelo\Persona.class
+sistematorneos\servicio\TorneoServicio.class
+sistematorneos\modelo\Equipo.class
+sistematorneos\modelo\Jugador.class
+sistematorneos\util\Mostrable.class
